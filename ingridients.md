@@ -1,0 +1,1 @@
+letuuce,mayonnise,bread,cucumber,potato,chickpeas
